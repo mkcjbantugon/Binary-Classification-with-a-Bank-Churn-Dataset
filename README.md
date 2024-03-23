@@ -1,5 +1,5 @@
 # Binary-Classification-with-a-Bank-Churn-Dataset
-Predicted whether the customer churned or not using the R programming language
+To predict whether the customer churn or not using the R programming language
 
 ## Requirement
 You must have R Studio installed in your computer in order to run the code.
